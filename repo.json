@@ -1,0 +1,9 @@
+{
+  "iconUrl": "https://bkrd.com.mx/wp-content/uploads/2022/10/Perfil-BKRD_Mesa-de-trabajo-1-copia.png",
+  "name": "lat_cs_hiirbaf",
+  "description": "Plugins latinos de Hiirbaf",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Hiirbaf/lat_cs_bkrjd/refs/heads/main/plugins.json"
+  ]
+}
